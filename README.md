@@ -1,3 +1,3 @@
 # stayc-graph
 
-A graphical representation of Kpop girl group Stayc member's height using graph.js
+A graphical representation of a Kpop girl group member's height using graph.js
