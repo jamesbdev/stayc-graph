@@ -4,10 +4,10 @@ var ctx = document.getElementById('myChart');
 var myChart = new Chart(ctx, {
     type: 'bar',
     data: {
-        labels: ['Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange'],
+        labels: ['Sumin', 'Sieun', 'Isa', 'Seeun', 'Yoon', 'J'],
         datasets: [{
-            label: '# of Votes',
-            data: [12, 19, 3, 5, 2, 3],
+            label: 'Members height',
+            data: [158, 160, 166, 166, 170, 168],
             backgroundColor: [
                 'rgba(255, 99, 132, 0.2)',
                 'rgba(54, 162, 235, 0.2)',
